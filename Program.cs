@@ -294,27 +294,27 @@ namespace myproject
 
         public static void Main()
         {
-            // Swapvalues();
-            // Multiply();
-            // Arithmetic();
-            // Feettometer();
-            // Celtofaren();
-            // Farentocel();
-            // Sizedatatypes();
-            // Ascii();
-            // Circlearea();
-            // Squarearea();
-            // Rectangleearea();
-            // Checknum();
-            // Largenum();
-            // Largenumwithcondition();
-            // Nestedif();
-            // Checkintequal();
-            // Countspace();
+            Swapvalues();
+            Multiply();
+            Arithmetic();
+            Feettometer();
+            Celtofaren();
+            Farentocel();
+            Sizedatatypes();
+            Ascii();
+            Circlearea();
+            Squarearea();
+            Rectangleearea();
+            Checknum();
+            Largenum();
+            Largenumwithcondition();
+            Nestedif();
+            Checkintequal();
+            Countspace();
             Sumdigit(981);
-            // Prime();
-            // Fibonacci();
-            // Factorial();
+            Prime();
+            Fibonacci();
+            Factorial();
         }
     }
 }
